@@ -3,6 +3,8 @@ RomanPushkin-HourlyGrid
 
 (русская версия ниже, russian version below)
 
+![mt_hourly_grid](https://f.cloud.github.com/assets/1477672/1888348/5c13462a-7a0c-11e3-8984-1724e017b26e.png)
+
 Hourly Grid indicator for Metatrader5 (MQL)
 
 This indicator will automatically place vertical lines at the beginning of each hour. Every line has it's own hour label like 11:00, 12:00, 13:00, etc.
